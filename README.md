@@ -2,7 +2,7 @@
 
 Defence Against The Dark Prompts
 
-Run the code in the following way:
+Put your prompts to have checked into a csv file (one column, no header) called ```INPUT_FILE```. Then run the code in the following way:
 
 ```
 forbidden_assessment.py --model MODEL --input_file INPUT_FILE [--output_file OUTPUT_FILE]
