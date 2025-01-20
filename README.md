@@ -1,3 +1,3 @@
-# DADP
+# DATDP
 
-Defence Against the Dark Prompts
+Defence Against The Dark Prompts
