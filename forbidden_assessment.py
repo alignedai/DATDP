@@ -18,8 +18,8 @@ def get_individual_verdict(answer_string):
 def get_final_answer(verdict_array):
     npa = np.array(verdict_array)
     # out of conservatism, rejection messages are weighted twice as much as acceptances
-    weighted_average = np.count_nonzero(npa == 1)*2 + np.count_nonzero(npa == 0)
-    if weighted_average >= 0.5:
+    weighted_average = np.count_nonzero(npa == 1)*2 - np.count_nonzero(npa == 0)
+    if weighted_average >= 0:
         return 1
     else:
         return 0
