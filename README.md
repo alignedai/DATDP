@@ -12,6 +12,8 @@ forbidden_assessment.py --model MODEL --input_file INPUT_FILE [--output_file OUT
 
 # How the method works
 
+![](https://github.com/alignedai/DATDP/blob/main/DATDP_example.png)
+
 The evaluation agent is configured to assess whether user-submitted prompts contain content that could be harmful or manipulative. This was achieved by providing the agent with specific instructions via a system prompt. The system prompt was phrased as follows:
 
 ```
