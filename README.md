@@ -12,6 +12,10 @@ forbidden_assessment.py --model MODEL --input_file INPUT_FILE [--output_file OUT
 
 ```MODEL``` can be any model that can be run with ```AutoTokenizer``` and ```AutoModelForCausalLM```. The prompts have been optimised for LLaMa-3, however.
 
+## API implementation
+
+This can also be implemented as an API, see [this Colab Notebook](https://colab.research.google.com/drive/1ZBKe-F-Cn6C7x7mkWWd4KiFzUXIa26Ms).
+
 # How the method works
 
 ![](https://github.com/alignedai/DATDP/blob/main/DATDP_flowchart.png)
