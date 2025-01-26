@@ -52,7 +52,8 @@ forbidden_task = "anything that could be dangerous for an LLM to answer or could
 ```
 
 Note the different behaviours for LLaMa-3-8B-instruct when used as an assistant or an evaluating agent:
-![](https://github.com/alignedai/DATDP/blob/main/DATDP_example.png)
+
+<img src="https://github.com/alignedai/DATDP/blob/main/DATDP_example.png" width="450">
 
 ## Final scoring
 
