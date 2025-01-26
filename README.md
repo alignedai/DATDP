@@ -14,7 +14,7 @@ forbidden_assessment.py --model MODEL --input_file INPUT_FILE [--output_file OUT
 
 ## API implementation
 
-This can also be implemented as an API, see [this Colab Notebook](https://colab.research.google.com/drive/1ZBKe-F-Cn6C7x7mkWWd4KiFzUXIa26Ms).
+This method can also be called via API, see [this Colab Notebook](https://colab.research.google.com/drive/1ZBKe-F-Cn6C7x7mkWWd4KiFzUXIa26Ms).
 
 # How the method works
 
