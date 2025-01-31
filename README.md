@@ -14,7 +14,7 @@ forbidden_assessment.py --model MODEL --input_file INPUT_FILE [--output_file OUT
 
 ## API implementation
 
-This method can also be called via API, see the [api-key page here](https://buildaligned.ai/dark-prompt-defender/api). More details can be found in [this Colab Notebook](https://colab.research.google.com/drive/1ZBKe-F-Cn6C7x7mkWWd4KiFzUXIa26Ms).
+This method can also be called via API, see the [api-key page here](https://buildaligned.ai/dark-prompt-defender/api). More details of the API implementation can be found in [this Colab Notebook](https://colab.research.google.com/drive/1ZBKe-F-Cn6C7x7mkWWd4KiFzUXIa26Ms).
 
 # How the method works
 
